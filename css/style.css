@@ -13,12 +13,13 @@ body {
 	display: flex;
 	flex-wrap: wrap;
 	margin: 0 auto;
-	width: 900px;
+	width: 500px;
+    padding-top: 30px;
 }
 
 .square {
-	width: 80px;
-	height: 80px;
+	width: 100px;
+	height: 100px;
 	border: solid 1px black;
 }
 
